@@ -10,6 +10,14 @@ h2 {
   font-size: 35px;
   margin: 20px;
 }
+
+.sombra {
+  box-shadow: 0px 5px 15px 0px rgba(112, 112, 112, 0.44);
+  background-color: var(--blanco);
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
 .encabezado {
   background-color: #333333;
   background-image: url("/img/apache-banner.png");
@@ -105,11 +113,11 @@ main h1 {
   height: 250px;
   margin: 20px;
 }
-.sombra {
-  box-shadow: 0px 5px 15px 0px rgba(112, 112, 112, 0.44);
-  background-color: var(--blanco);
-  padding: 2rem;
-  border-radius: 1rem;
+
+.text {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 200px;
 }
 
 footer {
