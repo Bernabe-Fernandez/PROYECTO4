@@ -120,6 +120,30 @@ main h1 {
   margin-bottom: 200px;
 }
 
+.apache p {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.apache img {
+  margin: 10px auto;
+  width: 450px;
+  height: 300px;
+}
+
+li {
+  font-size: 30px;
+}
+.multimedia {
+  margin-bottom: 50px;
+}
+
+.multimedia iframe {
+  margin: 20px auto;
+  width: 600px;
+  height: 400px;
+}
+
 footer {
   background-color: #2d2d64;
   height: 100px;
